@@ -57,6 +57,24 @@ The project focuses on practicality: queue-based downloads, clear progress feedb
 - No cloud storage
 - All data stays on the user’s machine
 
+
+## FFmpeg Requirement
+
+This application requires **FFmpeg** to be available in order to merge video/audio streams and to convert audio-only downloads to MP3.
+
+### Windows users
+Place `ffmpeg.exe` **in the same folder as the application executable**:
+
+
+Alternatively, FFmpeg can be added to the system PATH.
+
+FFmpeg is **not included** with this application.
+
+### Download FFmpeg
+FFmpeg can be downloaded from:
+https://www.gyan.dev/ffmpeg/builds/
+
+
 ---
 
 ## Project Structure
