@@ -14,7 +14,7 @@ The project focuses on practicality: queue-based downloads, clear progress feedb
 ![Main Page](assets/main_page.png)
 ![Download Progress](assets/download_progress.png)
 ![Statistics](assets/stats.png)
-![Last 7 Days](assets/last_7_days.png)
+![Last 7 Days](assets/history_last7days.png)
 
 
 ### Core Downloading
